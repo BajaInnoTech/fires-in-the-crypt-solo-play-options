@@ -2,6 +2,8 @@
 
 _by Eduardo del Corral, bajainnotech@proton.me_
 
+![Portrait - A Centurion watches over a conquered settlement](./images/FiresInTheCryptPorgrait.jpg)
+
 This document is a quick supplement for _Sanglorian_'s execellent first level adventure for his 4th Edition Retroclone **Orcus RPG**. All this does is try to provide some solo play options for the start where it's a bit more open ended. I hope you enjoy it.
 
 
