@@ -19,6 +19,20 @@ Create a party (preferably of 4), [I recommend choosing from Sanglorian's premad
 
 Read the first page of the PDF as is.
 
+### Monster Attacks
+
+Here's a handy reference depending on the number of characters in your party:
+
+1. The only player is always attacked.
+2. You can either toss a coin, or roll a d4 and divide the outcome by 2 and round up the number.
+3. Roll a d6 and divide the outcome by 2 then round up the outcome.
+4. Roll a d4.
+5. Roll a d10 and divide by 2 then round up the outcome.
+6. Roll a d6.
+7. Roll a d10, if you roll an 8 the character who's turn it is gets attacked, if you roll a 9 then the character who's turn is next is attacked...
+
+You can use the example of 7 to extrapolate for larger parties (though you should preferably have a party of 4 which is straightforward).
+
 ## 1A - Rumors
 
 You need to explore the town and obtain 3 clues to complete this section. To get a clue, a player must travel to a location of interest and succeed in the corresponding DC with THEIR stats (even when playing solo you could just send one of the party members at a time). Once the clue has been obtained, landing back to this area triggers an event.
